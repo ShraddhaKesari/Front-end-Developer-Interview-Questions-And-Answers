@@ -17,7 +17,7 @@ We can enforce browsers to use standards mode with a `<!DOCTYPE html>` tag.
 
 #### What's the difference between HTML and XHTML?
 
-*Not answered yet*
+XHTML is Extensible Hypetext Markup Language which is an application of XML. HTML 5 is a newer version of it. When HTML and XML combines it gives us XHTML. And XHTML is quite a strict code.
 
 #### Are there any problems with serving pages as `application/xhtml+xml`?
 
